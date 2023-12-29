@@ -2,7 +2,7 @@ import axios from "axios";
 
 // const API = axios.create({ baseURL: process.env.REACT_APP_BASEURL});
 const API = axios.create({
-  baseURL:'https://mark1-tspe.onrender.com' ,
+  baseURL:'https://mark1-tspe.onrender.com/api/v1' ,
     // timeout: 50000,
   });
 
